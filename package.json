@@ -1,0 +1,7 @@
+{
+  "name": "log-hint",
+  "version": "0.1.0",
+  "private": false,
+  "bin": { "log-hint": "bin/log-hint.js" },
+  "license": "MIT"
+}
